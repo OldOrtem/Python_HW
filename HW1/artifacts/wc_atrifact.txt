@@ -1,0 +1,21 @@
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python wc.py
+sxs
+
+1       1       4
+
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python wc.py src_files\test_tail1.txt src_files\test_tail2.txt
+20      20      51      src_files\test_tail1.txt
+        src_files\test_tail1.txt
+7       7       34      src_files\test_tail2.txt
+        src_files\test_tail2.txt
+27      27      85      total
+
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python wc.py src_files\test_tail1.txt
+20      20      51
+
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python wc.py
+one two
+three
+four five
+
+3       5       24

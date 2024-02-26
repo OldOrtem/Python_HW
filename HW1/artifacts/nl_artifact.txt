@@ -1,0 +1,19 @@
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python nl.py src_files\test_nl.txt
+1       first
+2       second
+3       third
+4       fourth
+5       fifth
+
+
+PS C:\Users\artem\PycharmProjects\Python_HW\Python_HW\HW1> python nl.py
+first
+1       first
+second
+2       second
+third
+3       third
+fourth
+4       fourth
+fifth
+5       fifth
