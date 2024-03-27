@@ -1,0 +1,20 @@
+Enter a message:
+Q
+2024-03-27 18:58:50.686899 Process A received: Q
+2024-03-27 18:58:50.686899 Process B received: q
+2024-03-27 18:58:50.687950 Main process received: d
+Enter a message:
+W
+2024-03-27 18:58:55.687784 Process A received: W
+2024-03-27 18:58:55.688306 Process B received: w
+2024-03-27 18:58:55.688306 Main process received: j
+Enter a message:
+e
+2024-03-27 18:59:00.688849 Process A received: e
+2024-03-27 18:59:00.688849 Process B received: e
+2024-03-27 18:59:00.689894 Main process received: r
+Enter a message:
+er
+2024-03-27 18:59:09.272952 Process A received: er
+2024-03-27 18:59:09.272952 Process B received: er
+2024-03-27 18:59:09.272952 Main process received: re
