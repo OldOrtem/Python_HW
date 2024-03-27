@@ -3,8 +3,8 @@ import second
 import third
 
 if __name__ == '__main__':
-    #first.main()
-    #second.main()
+    first.main()
+    second.main()
     third.main()
 
 
